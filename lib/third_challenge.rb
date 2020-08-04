@@ -1,6 +1,6 @@
 #your key/value pairs here
 #your key/value pairs here
-
+#your key/value pairs here
 
 
 def third_challenge
@@ -13,7 +13,7 @@ def third_challenge
         
         },
       :hero => {
-        #your key/value pairs here
+        
         },
       :hero_friends => []
    }, 
